@@ -1,0 +1,6 @@
+[package]
+name = "cudnn"
+version = "0.1.0"
+authors = ["Jason Cardinal <jason.cardinal@candeocreative.com>"]
+
+[dependencies]
